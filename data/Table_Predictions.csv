@@ -1,0 +1,7 @@
+,F1_Micro
+Most-Frequent-Label Baseline,0.0702
+Logistic Baseline,0.6711
+Logistic Weighted and Regularized,0.7965
+Random Forest,0.7696
+Support Vector Classifier,0.8067
+Xgboost,0.7825
